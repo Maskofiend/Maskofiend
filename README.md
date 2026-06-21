@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Masko]
+# 👋 Hi, I'm Masko
 
 ## Python Developer | Learning C & Malware Analysis
 
@@ -15,6 +15,6 @@ Python • C • Git • Linux • GDB
 ---
 
 📱 **Discord:** `masko_fiend`  
-📧 Email: your@email.com
+📧 Email: johnarriaga.b@gmail.com
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+
